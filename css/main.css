@@ -1245,7 +1245,7 @@ pre code {
 }
 @media (max-width: 991px) {
   .sidebar {
-    left: -240px;
+    left: -320px;
   }
   .sidebar-active .sidebar {
     left: 0;
@@ -1260,7 +1260,7 @@ pre code {
     top: 0;
     transition: 0.2s ease-out;
     transition-property: left, right;
-    width: 240px;
+    width: 320px;
     z-index: 20;
   }
   .sidebar a {
@@ -1282,7 +1282,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #ffc395;
+    background: #aceb1b;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
