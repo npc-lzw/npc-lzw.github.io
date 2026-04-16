@@ -18,4 +18,23 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>关于我</title>
+    <url>/2026/04/16/%E5%85%B3%E4%BA%8E%E6%88%91/</url>
+    <content><![CDATA[<h2 id="个人简介"><a href="#个人简介" class="headerlink" title="个人简介"></a>个人简介</h2><p>你好！我是一名后端开发工程师，专注于 Java 技术栈。</p>
+<h2 id="技术栈"><a href="#技术栈" class="headerlink" title="技术栈"></a>技术栈</h2><ul>
+<li>Java &#x2F; Spring Boot</li>
+<li>Spring Cloud 微服务</li>
+<li>MyBatis-Plus</li>
+<li>Redis &#x2F; MySQL</li>
+</ul>
+<h2 id="博客说明"><a href="#博客说明" class="headerlink" title="博客说明"></a>博客说明</h2><p>这个博客主要用于记录我的学习笔记和技术分享，希望能和大家一起交流进步。</p>
+]]></content>
+      <categories>
+        <category>关于</category>
+      </categories>
+      <tags>
+        <tag>个人介绍</tag>
+      </tags>
+  </entry>
 </search>
