@@ -37,4 +37,28 @@
         <tag>个人介绍</tag>
       </tags>
   </entry>
+  <entry>
+    <title>欢迎来到我的博客</title>
+    <url>/2026/04/16/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<h2 id="博客定位"><a href="#博客定位" class="headerlink" title="博客定位"></a>博客定位</h2><p>这是我的个人技术博客，主要记录和分享后端开发相关的学习经验。</p>
+<h2 id="内容规划"><a href="#内容规划" class="headerlink" title="内容规划"></a>内容规划</h2><p>博客将涵盖以下技术方向：</p>
+<ul>
+<li>Java 基础与进阶</li>
+<li>Spring Boot 实战开发</li>
+<li>Spring Cloud 微服务架构</li>
+<li>数据库设计与优化</li>
+<li>开发工具使用技巧</li>
+</ul>
+<h2 id="写作初衷"><a href="#写作初衷" class="headerlink" title="写作初衷"></a>写作初衷</h2><p>记录学习过程，总结技术经验，方便日后查阅，也希望能帮助到其他人。</p>
+<hr>
+<p>感谢来访！</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+        <tag>记录</tag>
+      </tags>
+  </entry>
 </search>
